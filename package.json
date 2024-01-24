@@ -1,0 +1,51 @@
+{
+    "name": "reformed",
+    "displayName": "Reformed",
+    "version": "1.1.0",
+    "publisher": "SaltyReformed",
+    "description": "Reformed - dark themes that focus on high contrast and readability.",
+    "author": {
+        "name": "SaltyReformed"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/Reformed-Cross.png",
+    "galleryBanner": {
+        "color": "#007acc",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Reformed-Dark-Blue",
+                "uiTheme": "vs-dark",
+                "path": "./Reformed-Dark-Blue.json"
+            },
+            {
+                "label": "Reformed-Dark-Green",
+                "uiTheme": "vs-dark",
+                "path": "./Reformed-Dark-Green.json"
+            },
+            {
+                "label": "Reformed-Dark-Red",
+                "uiTheme": "vs-dark",
+                "path": "./Reformed-Dark-Red.json"
+            }
+        ]
+    },
+    
+    "engines": {
+        "vscode": "^1.1.0"
+    },        
+    "license": "MIT LICENSE",
+    "bugs": {
+        "url": "https://github.com/SaltyReformed/Reformed/issues",
+        "email": "SaltyReformed@proton.me"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SaltyReformed/Reformed.git"
+    },
+    "homepage": "https://github.com/SaltyReformed/Reformed/#readme"
+}
