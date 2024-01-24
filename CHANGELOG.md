@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.2] - 2024-01-24
+
+- Updated README.md
+
 ## [1.1.1] - 2024-01-24
 
 - Fixed Git repo

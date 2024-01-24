@@ -1,6 +1,6 @@
 # Reformed Dark Theme
 
-My personal VS Code Theme. 
+My theme for VS Code and Azure Data Studio.
 
 - Dark
 - High contrast
@@ -16,12 +16,10 @@ My personal VS Code Theme.
 
 **Green**
 
-
 ![image](images/Reformed-Dark-Green-Screenshot.png)
 
 ----------------------------------
 
 **Red**
-
 
 ![image](images/Reformed-Dark-Red-Screenshot.png)
