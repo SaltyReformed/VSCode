@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.1] - 2024-01-24
+
+- Fixed Git repo
+
 ## [1.1.0] - 2024-01-24
 
 - Changed some background colors to a darker color for better contrast.

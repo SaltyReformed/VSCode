@@ -1,7 +1,7 @@
 {
     "name": "reformed",
     "displayName": "Reformed",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "SaltyReformed",
     "description": "Reformed - dark themes that focus on high contrast and readability.",
     "author": {
@@ -38,14 +38,14 @@
     "engines": {
         "vscode": "^1.1.0"
     },        
-    "license": "MIT LICENSE",
+    "license": "GNU GENERAL PUBLIC LICENSE Version 3",
     "bugs": {
-        "url": "https://github.com/SaltyReformed/Reformed/issues",
+        "url": "https://github.com/SaltyReformed/VSCode/issues",
         "email": "SaltyReformed@proton.me"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/SaltyReformed/Reformed.git"
+        "url": "https://github.com/SaltyReformed/VSCode.git"
     },
-    "homepage": "https://github.com/SaltyReformed/Reformed/#readme"
+    "homepage": "https://github.com/SaltyReformed/VSCode/#readme"
 }
